@@ -1,0 +1,5 @@
+Bottle, Botella (Spanish), bottle.au, spanish_bottle.au,  bottle.jpg
+Castle, Schloss (German), castle.au, german_castle.au, castle.jpg
+Country, Strana (Russian), country.au, russian_country.au, country.jpg
+Cloud, Kumo (Japanese), cloud.au, japanese_cloud.au, cloud.jpg
+Tower, Tour (French), tower.au, french_tower.au, tower.jpg
